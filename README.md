@@ -1,7 +1,7 @@
 
-## FX_Mock_Bank
+## FX_Data_Generator
 
-FX_Mock_Bank is a small toolkit for generating and summarizing **synthetic FX transaction data**.
+FX_Data_Generator is a small toolkit for generating and summarizing **synthetic FX transaction data**.
 
 It mimics a “local FX bank → central bank” reporting flow:
 
