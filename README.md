@@ -1,4 +1,4 @@
-````markdown
+````
 # FX_Mock_Bank
 
 FX_Mock_Bank is a small toolkit for generating and summarizing **synthetic FX transaction data**.
